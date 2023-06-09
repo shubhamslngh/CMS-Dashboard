@@ -2,6 +2,7 @@
   "name": "task",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://shubhamslngh.github.io/FrontendTaiyo.AI/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@tanstack/react-query": "^4.29.12",
