@@ -39,7 +39,7 @@ function ContactForm() {
   };
 
   return (
-    <div className="bg-gray-100 min-h-screen flex justify-center items-center">
+    <div className="bg-slate-100 min-h-screen flex justify-center items-center">
       <div className="bg-white p-8 rounded shadow-md w-96">
         <h1 className="text-3xl font-bold mb-6">Contact Page</h1>
         <form onSubmit={handleSubmit}>

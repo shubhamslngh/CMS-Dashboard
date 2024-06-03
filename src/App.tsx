@@ -36,6 +36,7 @@ function App() {
 						</NavLink>
 					</div>
 				</div>
+				<h1 className="bg-black text-white text-4xl text-center">Welcome to Covid database!!</h1>
 				<Routes>
 					<Route  path="/Contactform" element={<ContactForm />} />
           			<Route path="/Chartsmaps" element={<ChartsMaps />} />
